@@ -5,6 +5,7 @@
 ## Technologies Used
 * Microsoft .NET8
 * C#
+* Git
 
 ## Description
 _Writing a .NET8 Hwllo World Project from scratch. Most of my .NET journey has been with only the .NET6 LTS environment, and now its time to upgrade and use something new for my projects, and that is the .NET8 LTS Environment._
